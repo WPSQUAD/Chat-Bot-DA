@@ -21,7 +21,7 @@
 * Отображение доната в чате Twitch
 * Гибкая и быстрая настройка скрипта.
 
-<img src="https://sun9-66.userapi.com/impg/mj8QQNefBhm6swZxjfG9gZ4rgfVNlR10odQgBQ/8XdHacI1t1k.jpg?size=600x734&quality=96&sign=4c58dde865ea3c105ab2eea5365541fc&type=album" alt="">
+<center><img src="https://sun9-66.userapi.com/impg/mj8QQNefBhm6swZxjfG9gZ4rgfVNlR10odQgBQ/8XdHacI1t1k.jpg?size=600x734&quality=96&sign=4c58dde865ea3c105ab2eea5365541fc&type=album" alt="">
 
 #### Инструкция по настройке?
 

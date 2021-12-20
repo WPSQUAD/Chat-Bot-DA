@@ -12,9 +12,7 @@
     Инструкция по настройке
   </a>
   |
-  <a href="https://github.com/MrZillaGold/VK2Discord/blob/master/CONFIG_FIELDS.md">
-    Описание полей <code>config.json</code>
-  </a>
+  
 </p>
 </details>
 <br>

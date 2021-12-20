@@ -47,8 +47,10 @@
 Открываем командную строку (cmd) нажав на клавиатуре сочетанием клавиш Win+R затем пишем в появившемся окне cmd и нажимаем Enter.
 
 В открывшемся окне cmd пишем команду cd затем нажимаем пробел. Идем в папку с разархивированным ботом и копируем на него ссылку.
+    
 <img src="https://sun9-39.userapi.com/impg/V3XX2BG3IKqRlKMrB55wt-DtTXztYTiZK2XObA/RcHeGXeExm0.jpg?size=222x43&quality=96&sign=642ccc038bf5631084fc3ce94497ca26&type=album" alt="">
 Вставляем в cmd получившуюся страницу и нажимаем Enter. Должно получиться так:
+    
 <img src="https://sun9-31.userapi.com/impg/QIcitzJpFhwo4dX9SnhY7y1WtjG9E_qsbLVyaw/NaaCCbupVzM.jpg?size=342x84&quality=96&sign=c2842e9e8c25fe257af50882841de7e1&type=album" alt="">
 Пишем npm install и нажимаем Enter. После установки окно можно закрыть.
 

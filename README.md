@@ -45,7 +45,7 @@
 Там же в разделе где написано "никнейм канала" вставляем ваш никнейм твича с которого стримите (или создайте аккаунт бота в формате: НикнеймBot).
 <img src="https://sun9-84.userapi.com/impg/OcuYYFJCDAiGFnacKxGZBeVZhf1PkpoL-YCrWA/2l06IofY0Hk.jpg?size=684x118&quality=96&sign=e15d7273d14447f805bb6a1f9a28dbe0&type=album" alt="">
 
-3. Открываем командную строку (cmd)
+    <h3>3. Открываем командную строку (cmd)</h3>
 
 Открываем командную строку (cmd) нажав на клавиатуре сочетанием клавиш Win+R затем пишем в появившемся окне cmd и нажимаем Enter.
 
@@ -55,7 +55,7 @@
 <img src="https://sun9-31.userapi.com/impg/QIcitzJpFhwo4dX9SnhY7y1WtjG9E_qsbLVyaw/NaaCCbupVzM.jpg?size=342x84&quality=96&sign=c2842e9e8c25fe257af50882841de7e1&type=album" alt="">
 Пишем npm install и нажимаем Enter. После установки окно можно закрыть.
 
-<h1>4. Чтобы запустить чат-бота запускаем файл start.bat в папке с ботом. Радуемся!!!</h1>
+<h3>4. Чтобы запустить чат-бота запускаем файл start.bat в папке с ботом. Радуемся!!!</h3>
 
 
     </tr>

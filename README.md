@@ -37,7 +37,7 @@
 
 <img src="https://sun9-61.userapi.com/impg/P59cDiqnj8m4J6A-cp9CJXPygem_xvAqY2514w/Yf3m_IHTG1I.jpg?size=270x84&quality=96&sign=a57f70a915c0693163a3b865e7243221&type=album" alt="токен бота">
 
-2) Переходим на сайт DonationAlerts.com
+<h3>2) Переходим на сайт DonationAlerts.com</h3>
 Переходим в раздел "Основные настройки" и копируем токен.
 <img src="https://sun9-16.userapi.com/impg/CyCRGHXUzCrx1S-oQrQB8v59lXivG2EnUfy8KQ/PPpLnROjI6M.jpg?size=697x82&quality=96&sign=c043b651c86e5e77c1ee0d7340c1a781&type=album" alt="Токен DA">
 Открываем файл config.json в папке с ботом и вставляем полученный токен:

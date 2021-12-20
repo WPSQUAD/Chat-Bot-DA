@@ -1,0 +1,24 @@
+{
+    "token": "Токен Бота Twitch",
+    "username": "ник Бота",
+    "channels": [
+        {
+            "username": "никнейм канала",
+            "api_key": "токен DA",
+            "phrases": [
+                "/me {username} задонатил {amount}{currency} и оставил сообщение: {message} GlitchCat "
+            ]
+        },
+        {
+            "username": "никнейм 2го канала(если не нужен оставьте как есть)",
+            "api_key": "токен DA",
+            "phrases": [
+            ]
+        }
+    ],
+    "default_phrases":
+    [
+        "/me {username} задонатил {amount}{currency} и оставил сообщение: {message} GlitchCat "
+    ]
+
+}

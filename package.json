@@ -1,0 +1,25 @@
+{
+  "name": "Chat-Bot DA",
+  "version": "1.0.0",
+  "description": "простой бот donationalerts.com, который отправляет уведомления (сообщения) о пожертвованиях в чат Twitch",
+  "main": "main.js",
+  "dependencies": {
+    "socket.io": "^2.2.0",
+    "socket.io-client": "^2.2.0",
+    "twitch-js": "^2.0.0-beta.30"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WPSQUAD/Chat-Bot-Donation-Alerts.git"
+  },
+  "author": "WPSQUAD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WPSQUAD/Chat-Bot-Donation-Alerts/issues"
+  },
+  "homepage": "https://github.com/WPSQUAD/Chat-Bot-Donation-Alerts#readme"
+}

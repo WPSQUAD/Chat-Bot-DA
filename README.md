@@ -7,10 +7,7 @@
     Чат-бот Donation Alerts в чат Twitch
 </p>
 
-<p align="center">
-  <a href="https://vk.com/@wpsquad-chat-bot-da-v10">
-    Инструкция по настройке
-  </a>
+
   
 </p>
 </details>

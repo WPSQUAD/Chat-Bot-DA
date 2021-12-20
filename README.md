@@ -27,7 +27,7 @@
 
 1. Создайте новый канал на <a href="https://www.twitch.tv/">Twitch</a> в качестве бота (имяBot)
 В папке с ботом в файле config.json настраиваем бота:
-https://sun9-70.userapi.com/impg/qp2w0rRuNdD-uexCXNM-MAuruKw-jYMJ4-YCHg/KS-SLD8bG9Y.jpg?size=245x83&quality=96&sign=3e621aeb3ea342c4363e7493216ae44f&type=album
+<img src="https://sun9-70.userapi.com/impg/qp2w0rRuNdD-uexCXNM-MAuruKw-jYMJ4-YCHg/KS-SLD8bG9Y.jpg?size=245x83&quality=96&sign=3e621aeb3ea342c4363e7493216ae44f&type=album" alt="альтернативный текст">
 
     </tr>
 </table>

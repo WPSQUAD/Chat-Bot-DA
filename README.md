@@ -21,8 +21,6 @@
 * Отображение доната в чате Twitch
 * Гибкая и быстрая настройка скрипта.
 
-<center><img src="https://sun9-66.userapi.com/impg/mj8QQNefBhm6swZxjfG9gZ4rgfVNlR10odQgBQ/8XdHacI1t1k.jpg?size=600x734&quality=96&sign=4c58dde865ea3c105ab2eea5365541fc&type=album" alt="">
-
 #### Инструкция по настройке?
 
 * Для корректной работы бота требуется установить: Node.JS (tested on LTS 10.16.0)
@@ -58,6 +56,8 @@
 Пишем npm install и нажимаем Enter. После установки окно можно закрыть.
 
 <h3>4. Чтобы запустить чат-бота запускаем файл start.bat в папке с ботом. Радуемся!!!</h3>
+    
+    <center><img src="https://sun9-66.userapi.com/impg/mj8QQNefBhm6swZxjfG9gZ4rgfVNlR10odQgBQ/8XdHacI1t1k.jpg?size=600x734&quality=96&sign=4c58dde865ea3c105ab2eea5365541fc&type=album" alt="">
 
 
     </tr>

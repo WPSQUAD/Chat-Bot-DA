@@ -34,7 +34,7 @@
 Заходим в аккаунт Twitch c аккаунта бота и переходим по этой ссылке: https://twitchapps.com/tmi/ разрешаем доступ к аккаунту после копируем токен
 
 Вставляем токен бота в файле config.json:
-<img src="https://sun9-61.userapi.com/impg/P59cDiqnj8m4J6A-cp9CJXPygem_xvAqY2514w/Yf3m_IHTG1I.jpg?size=270x84&quality=96&sign=a57f70a915c0693163a3b865e7243221&type=album" alt="">
+<img src="https://sun9-61.userapi.com/impg/P59cDiqnj8m4J6A-cp9CJXPygem_xvAqY2514w/Yf3m_IHTG1I.jpg?size=270x84&quality=96&sign=a57f70a915c0693163a3b865e7243221&type=album" alt="токен бота">
 
     </tr>
 </table>
